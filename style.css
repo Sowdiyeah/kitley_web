@@ -54,6 +54,11 @@ body
 	outline: none !important;
 }
 
+.center-fit{
+	width: 100%;
+
+}
+
 /*-----banner section ----*/ 
 
 #banner
@@ -122,6 +127,14 @@ body
 
 }
 
+
+
+#statistics
+{
+	padding:80px;
+	
+}
+
 /*-----social media stuff----*/
 
 #social-media
@@ -147,4 +160,16 @@ body
 #commercial
 {
 	/*background: #F5F5F5;*/
+}
+
+.contents
+{
+	padding:70px;
+	font-size: 20;
+}
+
+#testimonials
+{
+	padding:80px;
+	background: #F5F5F5;
 }
