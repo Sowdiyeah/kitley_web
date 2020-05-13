@@ -75,7 +75,9 @@ body
 
 /*------commercial--------*/
 
-#commercial
+.contents
 {
-	/*background: #F5F5F5;*/
+	padding:70px;
+	font-size: 20;
 }
+
