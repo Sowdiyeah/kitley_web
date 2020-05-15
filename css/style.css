@@ -148,3 +148,26 @@
 	height: calc(100vh - 198px);
 	width: 99.5%;
 }
+
+/* table section */
+table 
+{
+	width: 100%;
+}
+
+td, th 
+{
+	border: 1px solid #000000;
+	padding: 8px 30px;
+	width: 50%;
+}
+
+tr:nth-child(even) 
+{
+	background-color: #dddddd;
+}
+
+p
+{
+	text-align: justify;
+}
