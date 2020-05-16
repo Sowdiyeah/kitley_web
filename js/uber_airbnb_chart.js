@@ -1,0 +1,1 @@
+trends.embed.renderExploreWidget("TIMESERIES", { "comparisonItem": [{ "keyword": "/m/0gx0wlr", "geo": "", "time": "2004-01-01 2020-05-16" }, { "keyword": "/m/010qmszp", "geo": "", "time": "2004-01-01 2020-05-16" }], "category": 0, "property": "" }, { "exploreQuery": "date=all&q=%2Fm%2F0gx0wlr,%2Fm%2F010qmszp", "guestPath": "https://trends.google.com:443/trends/embed/" });
